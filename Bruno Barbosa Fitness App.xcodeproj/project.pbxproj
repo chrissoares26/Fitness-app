@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0296AA0D263F1CED00BE08CF /* Fitness.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0296AA0C263F1CEC00BE08CF /* Fitness.swift */; };
+		0296AA10263F1E2500BE08CF /* FitnessModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0296AA0F263F1E2500BE08CF /* FitnessModel.swift */; };
 		02F473332637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */; };
 		02F473352637533900F92C3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F473342637533900F92C3B /* ContentView.swift */; };
 		02F473372637533D00F92C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02F473362637533D00F92C3B /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0296AA0C263F1CEC00BE08CF /* Fitness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fitness.swift; sourceTree = "<group>"; };
+		0296AA0F263F1E2500BE08CF /* FitnessModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessModel.swift; sourceTree = "<group>"; };
 		02F4732F2637533900F92C3B /* Bruno Barbosa Fitness App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bruno Barbosa Fitness App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bruno_Barbosa_Fitness_AppApp.swift; sourceTree = "<group>"; };
 		02F473342637533900F92C3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +37,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0296AA07263F1C2200BE08CF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				02F473342637533900F92C3B /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0296AA08263F1C3100BE08CF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				0296AA0C263F1CEC00BE08CF /* Fitness.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		0296AA09263F1C3900BE08CF /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				0296AA0F263F1E2500BE08CF /* FitnessModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 		02F473262637533900F92C3B = {
 			isa = PBXGroup;
 			children = (
@@ -53,7 +81,9 @@
 			isa = PBXGroup;
 			children = (
 				02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */,
-				02F473342637533900F92C3B /* ContentView.swift */,
+				0296AA09263F1C3900BE08CF /* ViewModels */,
+				0296AA08263F1C3100BE08CF /* Models */,
+				0296AA07263F1C2200BE08CF /* Views */,
 				02F473362637533D00F92C3B /* Assets.xcassets */,
 				02F4733B2637533D00F92C3B /* Info.plist */,
 				02F473382637533D00F92C3B /* Preview Content */,
@@ -138,7 +168,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0296AA0D263F1CED00BE08CF /* Fitness.swift in Sources */,
 				02F473352637533900F92C3B /* ContentView.swift in Sources */,
+				0296AA10263F1E2500BE08CF /* FitnessModel.swift in Sources */,
 				02F473332637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
