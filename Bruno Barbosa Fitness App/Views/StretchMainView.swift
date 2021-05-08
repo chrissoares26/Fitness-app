@@ -7,7 +7,10 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct StretchMainView: View {
+    
+   @ObservedObject var model = FitnessModel()
+    
     var body: some View {
         NavigationView {
             VStack(alignment: .leading){
@@ -90,8 +93,7 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        StretchMainView()
     }
 }
-
 
