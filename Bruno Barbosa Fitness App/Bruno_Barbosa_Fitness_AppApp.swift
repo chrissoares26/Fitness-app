@@ -11,7 +11,7 @@ import SwiftUI
 struct Bruno_Barbosa_Fitness_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            StretchMainView()
+            HomeView()
         }
     }
 }

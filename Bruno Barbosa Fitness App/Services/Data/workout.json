@@ -1,7 +1,7 @@
 [
     {
         "day": "Monday",
-        "image": "stretch-1",
+        "image": "stretching-1",
         "routine": [
             {"name": "Panturrilhas", "pic": "panturrilhas", "desc": "Forma de execução - De pé, tronco ereto, abdômen contraído, de frente para o espaldar, a uma distância de um passo. Pés na largura dos quadris, levar uma das pernas à frente inclinando o tronco e apoiando as mãos no espaldar (ou parede), mantendo o calcanhar da perna de trás apoiado no chão até sentir o alongamento na parte posterior alta da perna e sustentar a posição pelo tempo indicado."},
             {"name": "Virilhas", "pic": "virilhas", "desc":"Forma de execução - A uma distância de um passo e de frente para o espaldar (ou onde possa apoiar as mãos, beirada da cama ou uma cadeira), de joelhos sobre um colchonete, tronco ereto, transverso contraído. Levar uma das pernas à frente até bem próximo do espaldar, mantendo uma flexão do joelho da frente em torno de 90°. Apoiar as mãos numa das barras, manter tronco ereto e fazer uma ligeira pressão no quadril para baixo e para frente até sentir o estiramento das virilhas da perna que está no chão e manter a postura pelo tempo indicado."},
@@ -12,7 +12,7 @@
     
     {
         "day": "Tuesday",
-        "image": "stretch-2",
+        "image": "stretching-2",
         "routine": [
             {"name": "Panturrilhas", "pic": "panturrilhas", "desc": "Forma de execução - De pé, tronco ereto, abdômen contraído, de frente para o espaldar, a uma distância de um passo. Pés na largura dos quadris, levar uma das pernas à frente inclinando o tronco e apoiando as mãos no espaldar (ou parede), mantendo o calcanhar da perna de trás apoiado no chão até sentir o alongamento na parte posterior alta da perna e sustentar a posição pelo tempo indicado."},
             {"name": "Virilhas", "pic": "virilhas", "desc":"Forma de execução - A uma distância de um passo e de frente para o espaldar (ou onde possa apoiar as mãos, beirada da cama ou uma cadeira), de joelhos sobre um colchonete, tronco ereto, transverso contraído. Levar uma das pernas à frente até bem próximo do espaldar, mantendo uma flexão do joelho da frente em torno de 90°. Apoiar as mãos numa das barras, manter tronco ereto e fazer uma ligeira pressão no quadril para baixo e para frente até sentir o estiramento das virilhas da perna que está no chão e manter a postura pelo tempo indicado."},
@@ -23,7 +23,7 @@
     
     {
         "day": "Wednesday",
-        "image": "stretch-3",
+        "image": "stretching-3",
         "routine": [
             {"name": "Panturrilhas", "pic": "panturrilhas", "desc": "Forma de execução - De pé, tronco ereto, abdômen contraído, de frente para o espaldar, a uma distância de um passo. Pés na largura dos quadris, levar uma das pernas à frente inclinando o tronco e apoiando as mãos no espaldar (ou parede), mantendo o calcanhar da perna de trás apoiado no chão até sentir o alongamento na parte posterior alta da perna e sustentar a posição pelo tempo indicado."},
             {"name": "Virilhas", "pic": "virilhas", "desc":"Forma de execução - A uma distância de um passo e de frente para o espaldar (ou onde possa apoiar as mãos, beirada da cama ou uma cadeira), de joelhos sobre um colchonete, tronco ereto, transverso contraído. Levar uma das pernas à frente até bem próximo do espaldar, mantendo uma flexão do joelho da frente em torno de 90°. Apoiar as mãos numa das barras, manter tronco ereto e fazer uma ligeira pressão no quadril para baixo e para frente até sentir o estiramento das virilhas da perna que está no chão e manter a postura pelo tempo indicado."},
@@ -34,7 +34,7 @@
     
     {
         "day": "Thursday",
-        "image": "stretch-4",
+        "image": "stretching-4",
         "routine": [
             {"name": "Panturrilhas", "pic": "panturrilhas", "desc": "Forma de execução - De pé, tronco ereto, abdômen contraído, de frente para o espaldar, a uma distância de um passo. Pés na largura dos quadris, levar uma das pernas à frente inclinando o tronco e apoiando as mãos no espaldar (ou parede), mantendo o calcanhar da perna de trás apoiado no chão até sentir o alongamento na parte posterior alta da perna e sustentar a posição pelo tempo indicado."},
             {"name": "Virilhas", "pic": "virilhas", "desc":"Forma de execução - A uma distância de um passo e de frente para o espaldar (ou onde possa apoiar as mãos, beirada da cama ou uma cadeira), de joelhos sobre um colchonete, tronco ereto, transverso contraído. Levar uma das pernas à frente até bem próximo do espaldar, mantendo uma flexão do joelho da frente em torno de 90°. Apoiar as mãos numa das barras, manter tronco ereto e fazer uma ligeira pressão no quadril para baixo e para frente até sentir o estiramento das virilhas da perna que está no chão e manter a postura pelo tempo indicado."},
@@ -44,7 +44,7 @@
     },
     {
         "day": "Friday",
-        "image": "stretch-5",
+        "image": "stretching-5",
         "routine": [
             {"name": "Panturrilhas", "pic": "panturrilhas", "desc": "Forma de execução - De pé, tronco ereto, abdômen contraído, de frente para o espaldar, a uma distância de um passo. Pés na largura dos quadris, levar uma das pernas à frente inclinando o tronco e apoiando as mãos no espaldar (ou parede), mantendo o calcanhar da perna de trás apoiado no chão até sentir o alongamento na parte posterior alta da perna e sustentar a posição pelo tempo indicado."},
             {"name": "Virilhas", "pic": "virilhas", "desc":"Forma de execução - A uma distância de um passo e de frente para o espaldar (ou onde possa apoiar as mãos, beirada da cama ou uma cadeira), de joelhos sobre um colchonete, tronco ereto, transverso contraído. Levar uma das pernas à frente até bem próximo do espaldar, mantendo uma flexão do joelho da frente em torno de 90°. Apoiar as mãos numa das barras, manter tronco ereto e fazer uma ligeira pressão no quadril para baixo e para frente até sentir o estiramento das virilhas da perna que está no chão e manter a postura pelo tempo indicado."},

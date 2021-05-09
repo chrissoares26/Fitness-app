@@ -45,6 +45,11 @@ class DataService {
                         // Set a unique ID for wach workout in the workoutData array
                         
                         r.id = UUID()
+                        
+                        for i in r.routine {
+                            i.id = UUID()
+                        }
+                        
                     }
                     
                     // Assign the data to the published property
