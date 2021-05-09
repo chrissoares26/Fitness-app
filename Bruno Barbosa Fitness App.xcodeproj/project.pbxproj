@@ -14,6 +14,7 @@
 		02A4136626474A4000C38C96 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A4136526474A4000C38C96 /* DetailView.swift */; };
 		02A413692647523400C38C96 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A413682647523400C38C96 /* HomeView.swift */; };
 		02A4136F2647A76500C38C96 /* BMIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A4136E2647A76500C38C96 /* BMIModel.swift */; };
+		02A41384264888A300C38C96 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 02A41383264888A300C38C96 /* README.md */; };
 		02F473332637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */; };
 		02F473352637533900F92C3B /* StretchMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F473342637533900F92C3B /* StretchMainView.swift */; };
 		02F473372637533D00F92C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02F473362637533D00F92C3B /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		02A4136526474A4000C38C96 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		02A413682647523400C38C96 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		02A4136E2647A76500C38C96 /* BMIModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMIModel.swift; sourceTree = "<group>"; };
+		02A41383264888A300C38C96 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		02F4732F2637533900F92C3B /* Bruno Barbosa Fitness App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bruno Barbosa Fitness App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bruno_Barbosa_Fitness_AppApp.swift; sourceTree = "<group>"; };
 		02F473342637533900F92C3B /* StretchMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StretchMainView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 		02F473312637533900F92C3B /* Bruno Barbosa Fitness App */ = {
 			isa = PBXGroup;
 			children = (
+				02A41383264888A300C38C96 /* README.md */,
 				02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */,
 				0296AA07263F1C2200BE08CF /* Views */,
 				0296AA09263F1C3900BE08CF /* ViewModels */,
@@ -190,6 +193,7 @@
 			files = (
 				029319872646D6B90036CDDC /* workout.json in Resources */,
 				02F4733A2637533D00F92C3B /* Preview Assets.xcassets in Resources */,
+				02A41384264888A300C38C96 /* README.md in Resources */,
 				02F473372637533D00F92C3B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
