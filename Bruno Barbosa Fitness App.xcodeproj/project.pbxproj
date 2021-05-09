@@ -96,6 +96,7 @@
 		02F473262637533900F92C3B = {
 			isa = PBXGroup;
 			children = (
+				02A41383264888A300C38C96 /* README.md */,
 				02F473312637533900F92C3B /* Bruno Barbosa Fitness App */,
 				02F473302637533900F92C3B /* Products */,
 			);
@@ -112,7 +113,6 @@
 		02F473312637533900F92C3B /* Bruno Barbosa Fitness App */ = {
 			isa = PBXGroup;
 			children = (
-				02A41383264888A300C38C96 /* README.md */,
 				02F473322637533900F92C3B /* Bruno_Barbosa_Fitness_AppApp.swift */,
 				0296AA07263F1C2200BE08CF /* Views */,
 				0296AA09263F1C3900BE08CF /* ViewModels */,
